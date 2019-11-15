@@ -1,0 +1,13 @@
+Simple search by city name
+
+install:
+
+git clone
+
+pipenv shell
+
+install -r requirements.txt
+
+python manage.py migrate
+
+python manage.py runserver
